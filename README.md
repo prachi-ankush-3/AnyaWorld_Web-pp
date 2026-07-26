@@ -41,9 +41,6 @@ https://your-github-pages-link
 
 ---
 
-# 🏡 Home Page Preview
-
-> **📸 Add a screenshot of your `home.html` here**
 
 <p align="center">
 
