@@ -34,20 +34,6 @@ The goal is to make readers feel as though they are reading a real illustrated s
 ```
 https://your-github-pages-link
 ```
-
-*(Replace this after enabling GitHub Pages.)*
-
-</p>
-
----
-
-
-<p align="center">
-
-<img src="./Screenshots/home.png" width="1000"/>
-
-</p>
-
 ---
 
 # 📖 Features
