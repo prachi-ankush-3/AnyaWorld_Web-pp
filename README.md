@@ -23,17 +23,13 @@ The goal is to make readers feel as though they are reading a real illustrated s
 
 ---
 
-# 🌐 Live Website
+## 🌐 Live Demo
 
-> ## 🚀 Home Page
-
-<p align="center">
+> 🚀 **Deployed Project:**
 
 
+🔗 **Live Demo:** https://anyaworld-web.onrender.com/
 
-```
-https://anyaworld-web.onrender.com/
-```
 ---
 
 # 📖 Features
